@@ -1,0 +1,14 @@
+2023-03-19 00:04:01.537  INFO 86191 --- [main] com.nim.clienttwo.ClientTwoApplication   : Starting ClientTwoApplication using Java 17.0.2 on nim-Lenovo-E40-70 with PID 86191 (/home/nim/Spring-admin/client-two/target/classes started by nim in /home/nim/Spring-admin/client-two)
+2023-03-19 00:04:01.557  INFO 86191 --- [main] com.nim.clienttwo.ClientTwoApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-03-19 00:04:02.855  INFO 86191 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-03-19 00:04:02.863  INFO 86191 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-19 00:04:02.863  INFO 86191 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-19 00:04:02.928  INFO 86191 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-19 00:04:02.929  INFO 86191 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1274 ms
+2023-03-19 00:04:03.507  INFO 86191 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2023-03-19 00:04:03.551  INFO 86191 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-03-19 00:04:03.569  INFO 86191 --- [main] com.nim.clienttwo.ClientTwoApplication   : Started ClientTwoApplication in 2.625 seconds (JVM running for 3.674)
+2023-03-19 00:04:03.650  INFO 86191 --- [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Application registered itself as 3b86ce0a868d
+2023-03-19 00:04:03.671  INFO 86191 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-19 00:04:03.671  INFO 86191 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-03-19 00:04:03.673  INFO 86191 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
